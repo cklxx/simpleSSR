@@ -1,0 +1,1 @@
+node -r esbuild-register ./server/app.ts
